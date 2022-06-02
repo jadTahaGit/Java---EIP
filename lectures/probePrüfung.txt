@@ -1,0 +1,69 @@
+- Die echte Prüfung wird 3Stunden dauern
+- Java Version 11
+- Einstädigskeiterklärung kann man nach der Prüfung unterschreiben und abgeben!
+
+
+- Die Frage, die ich habe ist bezüglich partiell korrekt wenn es total korrekt ist.
+
+- Er ist partiell korrekt (Scheiß egal ob es total ist. Total impliziert partiell)
+
+- Aufgabe 1:
+Alles richtig (außer partiell)
+
+- Aufgabe 2: 
+Alles richtig (floht, boolean, String) aufpassen auf klein & groß Buchstaben 
+
+Idee: der Link auf der Webseite könnte hackbar sein
+
+https://gate.ifi.lmu.de/submissionsystem/servlets/ShowTask?taskid=435
+
+- Aufgabe 3:
+Alles richtig 
+3)c) besondere Fall: Setter ...
+
+
+Aufgabe 4: 
+Boolean und boolean
+
+B)
+- stars number decreases
+- ...
+
+
+- Aufgabe 5)
+ Easy...
+
+- Aufgabe 6
+Ausgabe 1
+Buch 
+Regal
+
+Ausgabe 2
+Sachbuch
+Regal
+
+Ausgabe 3
+Sachbuch
+Schreibtisch
+
+
+B) 
+final...
+
+Leer ...
+
+C)
+Richtig : Interface ... darf nur abstrakte Methoden und Konstanten besitzen
+
+Falsch, die können leer sein
+
+(mehr als 0 abstrakte Methoden => abstrakte Klasse) und die Implikation gilt nur in diese Richtung
+
+
+Richtig, klasse Objekt ...
+
+
+
+
+
+
